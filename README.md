@@ -19,5 +19,3 @@ I am passionate about leveraging technology and data to solve complex problems. 
 📱 **Telegram:** [@Erfmoghdsian]([https://t.me/yourtelegramhandle](https://t.me/Erfmoghdsian))
 
 ---
-
-⭐ **Feel free to connect!** ⭐
