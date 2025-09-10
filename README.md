@@ -16,7 +16,7 @@ I'm a data scientist with a solid background in networking and systems. I love d
 ## 📬 Contact Me
 📩 **Email:** [erfan.moghadasian@gmail.com](mailto:erfan.moghadasian@gmail.com)  
 📱 **Telegram:** [@Erfmoghdsian]([https://t.me/yourtelegramhandle](https://t.me/Erfmoghdsian))
-🔗 **LinkedIn:** [linkedin.com/in/erfan-moghadasian-22020b225](www.linkedin.com/in/erfan-moghadasian-22020b225)
+🔗 **LinkedIn:** [www.linkedin.com/in/erfan-moghadasian](www.linkedin.com/in/erfan-moghadasian)
 
 
 ---
