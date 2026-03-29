@@ -9,7 +9,7 @@ I'm a data scientist with a solid background in networking and systems. I love d
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,cloudflare,py,regex,mongodb,mysql,js,nodejs,react,cpp,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,cloudflare,py,regex,mongodb,mysql,nodejs,cpp,aws,docker,opencv,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
